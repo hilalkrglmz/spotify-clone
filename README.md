@@ -1,7 +1,8 @@
 
 
 
-https://github.com/hilalkrglmz/spotify-clone/assets/140657703/3dde1fe3-8824-4432-b8da-4c0bff4caee9
+Uploading ezgif.com-gif-maker (6).mp4…
+
 
 
 <!DOCTYPE html>
